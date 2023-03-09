@@ -10,6 +10,7 @@ internal class Program
         Console.WriteLine("linje 5");
         Console.WriteLine("linje 6");
         Console.WriteLine("linje 7");
-        Console.WriteLine( "linje 8"); 
+        Console.WriteLine( "linje 8");
+        Console.WriteLine("linje 9");
     }
 }

@@ -7,5 +7,6 @@ internal class Program
         Console.WriteLine("God");
         Console.WriteLine("farvel");
         Console.WriteLine("der var");
+        Console.WriteLine("linje 5");
     }
 }

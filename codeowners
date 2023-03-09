@@ -1,9 +1,0 @@
-# this is the list of reviewers to approve any thing in this repo
-
-* @jakupwhansen
-
-# what if i like to approve only json filse
-
-#   *.js @jakupwhansen
-# in a folder
-#  /docs/* @jakupwhansen

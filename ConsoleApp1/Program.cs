@@ -12,5 +12,6 @@ internal class Program
         Console.WriteLine("linje 7");
         Console.WriteLine( "linje 8");
         Console.WriteLine("linje 9");
+        Console.WriteLine("linje 10 fra Jakup2");
     }
 }

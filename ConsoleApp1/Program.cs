@@ -12,5 +12,6 @@ internal class Program
         Console.WriteLine("12:16 fra Jakup2");
         Console.WriteLine("12:18 fra Jakup2");
         Console.WriteLine("12:23 fra kup2");
+        Console.WriteLine("12:38 fra kup2");
     }
 }

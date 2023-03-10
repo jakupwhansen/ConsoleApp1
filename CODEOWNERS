@@ -1,9 +1,0 @@
-# This is a comment
-# The following line assigns code ownership for all files in this repository
-*       @jakupwhansen
-
-# The following line assigns code ownership for all files in the docs directory
-# docs/*  @octodocs
-
-# The following line assigns code ownership for all files with .js extension
-# *.js    @octojs

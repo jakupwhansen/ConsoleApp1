@@ -5,5 +5,6 @@ internal class Program
     {
         Console.WriteLine("11:03 fra Jakup");
         Console.WriteLine("11:04 fra Jakup2");
+        Console.WriteLine("11:23 fra Jakup");
     }
 }
